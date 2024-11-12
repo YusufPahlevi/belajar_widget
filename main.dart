@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
                 children: [
                Center(
         child: Container(
-          height: 440,
+          height: 200,
           width: 850,
           margin: const EdgeInsets.all(16.0),
           padding: const EdgeInsets.all(16.0),
